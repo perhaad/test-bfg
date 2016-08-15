@@ -1,1 +1,2 @@
 * First set of work - Commit1
+* Second set of work - Commit2
